@@ -23,14 +23,14 @@ A 36-week Friday tech masterclass by [Tequity](https://tequity.tech).
 | Week | Topic | Code |
 |------|-------|------|
 | 1 | [Why Design Patterns Matter](week-01-why-design-patterns-matter/) | Before/after refactoring, spot-the-smell exercises |
-| 2 | Singleton Pattern | _coming soon_ |
-| 3 | Factory Pattern | _coming soon_ |
-| 4 | Observer Pattern | _coming soon_ |
-| 5 | Strategy Pattern | _coming soon_ |
-| 6 | Decorator Pattern | _coming soon_ |
-| 7 | Adapter Pattern | _coming soon_ |
-| 8 | Builder Pattern | _coming soon_ |
-| 9 | Facade Pattern | _coming soon_ |
+| 2 | SOLID Principles | _coming soon_ |
+| 3 | Singleton Pattern | _coming soon_ |
+| 4 | Factory Pattern | _coming soon_ |
+| 5 | Observer Pattern | _coming soon_ |
+| 6 | Strategy Pattern | _coming soon_ |
+| 7 | Decorator Pattern | _coming soon_ |
+| 8 | Adapter & Facade Patterns | _coming soon_ |
+| 9 | Builder Pattern | _coming soon_ |
 | 10 | Proxy Pattern | _coming soon_ |
 | 11 | Command Pattern | _coming soon_ |
 | 12 | Patterns Recap & Combined Exercise | _coming soon_ |
